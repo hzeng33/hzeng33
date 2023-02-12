@@ -6,7 +6,7 @@
 - :woman: Pronouns: She/Her/Hers
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
-   * I can cook any dishes as long giving me a well-instructed recipe and ingredients.
+   * Giving me a well-instructed recipe and ingredients, I can cook any dishes in the kitchen.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
 - :computer: I'm currently working on Instagram-Clone project.
