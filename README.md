@@ -9,7 +9,6 @@
    * Giving me a well-instructed recipe and ingredients, I can cook any dishes in the kitchen.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
-- :computer: I'm currently working on Instagram-Clone project.
  
 
  ### Most used languages
@@ -28,7 +27,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- :computer: I'm currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
