@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, welcome to my GitHub! 👋
+
+I'm Hannah. I am currently pursuing my second bachelor's degree in Computer Science with a minor in Mathematics. I finished my first degree in Psychology back in 2016.
+
 
 <!--
 **hzeng33/hzeng33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
