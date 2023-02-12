@@ -1,4 +1,4 @@
-<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" height="450px" width="750px">   
+<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" height="380px" width="750px">   
 
 ## ✨ Hello, welcome to my GitHub! <img src="wave.gif" height="25px" width="25px">
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huiqingzeng)
