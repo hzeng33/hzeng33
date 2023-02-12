@@ -6,7 +6,7 @@
 - :woman: Pronouns: She/Her/Hers
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
-   * Giving me a well-instructed recipe and ingredients, I can cook any dishes in the kitchen.
+   * I like watching anime, movies, and documentaries.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
  
