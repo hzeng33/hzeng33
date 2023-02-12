@@ -1,6 +1,12 @@
-## Hello, welcome to my GitHub! 👋
+## Hello, welcome to my GitHub! <img src="wave.gif" height="25px" width="25px">
 
-I'm Hannah. I am currently pursuing my second bachelor's degree in Computer Science with a minor in Mathematics. I finished my first degree in Psychology back in 2016.
+- :sparkles: My name is Hannah Zeng
+- :woman: Pronouns: She/Her/Hers
+- ⚡ Fun facts: 
+   * I can speak both Cantonese and Mandarin fluently.     
+   * I can cook any dishes as long giving me a well-instructed recipe and ingredients.
+   * I strive everyday to live in the moment. And to better myself.
+               
 
 
 <!--
