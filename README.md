@@ -9,6 +9,7 @@
    * I like watching anime, movies, and documentaries.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
+- :computer: I'm currently working on Fullstack-instagram-clone project.
  
  <img src="https://github-readme-stats.vercel.app/api?username=hzeng33&show_icons=true&theme=vue-dark"/>
  
