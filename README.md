@@ -9,7 +9,7 @@
    * I like watching anime, movies, and documentaries.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
-- :computer: I'm currently working on Fullstack-instagram-clone project.
+
  
  <img src="https://github-readme-stats.vercel.app/api?username=hzeng33&show_icons=true&theme=vue-dark"/>
  
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-- :computer: I'm currently working on ...
 - github stats: <img src="https://github-readme-stats.vercel.app/api?username=hzeng33&show_icons=true&theme=vue-dark"/>
 - badge website: https://dev.to/envoy_/150-badges-for-github-pnk [![](<badge_url>)](<hyperlink>)
 - Tools icon <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code> 
