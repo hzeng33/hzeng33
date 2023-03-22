@@ -1,4 +1,4 @@
-<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" height="380px" width="750px">   
+<img src="https://github.com/hzeng33/hzeng33/blob/main/profile.gif" height="280px" width="780px">   
 
 ## ✨ Hello, welcome to my GitHub! <img src="wave.gif" height="25px" width="25px">
 
