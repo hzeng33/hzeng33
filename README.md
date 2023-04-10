@@ -10,7 +10,9 @@
    * I can speak both Cantonese and Mandarin fluently.     
    * I like watching Janpanese anime.
    * I strive everyday to live in the moment. And to better myself.
-- :seedling: I constantly learn Java, JavaScript, React.
+- :seedling: I'm currently learning Java, JavaScript, React.
+- :computer: I'm currently working on a project RecipeSwap and collaborating with 4+ people on InstagramClone project.
+
 
 ## Find me on: 
 <p align="left">
