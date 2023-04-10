@@ -6,7 +6,7 @@
 - :woman: Pronouns: She/Her/Hers
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
-   * I like watching Janpanese anime, movies, and documentaries.
+   * I like watching Janpanese anime.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
 - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huiqingzeng)
