@@ -1,4 +1,4 @@
-<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" height="430px" width="780px">   
+<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" width="650px">   
 
 ## ✨ Hello, I'm Hannah. Welcome to my GitHub! <img src="wave.gif" height="25px" width="25px">
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=hzeng33) ![Github](https://img.shields.io/github/followers/hzeng33?label=Follow&style=social)-->
