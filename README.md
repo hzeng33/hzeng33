@@ -8,7 +8,7 @@
 - I'm a early career software developer, currently a senior majoring in Computer Science with a minor in Mathematics at CUNY Queens College. 
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
-   * I like watching Janpanese anime.
+   * I like watching Animes and comedies in my spare time.
    * I strive everyday to live in the moment. And to better myself.
 - :seedling: I'm currently learning Java, JavaScript, React.
 - :computer: I'm currently working on a project RecipeSwap and collaborating with 4+ people on InstagramClone project.
