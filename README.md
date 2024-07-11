@@ -5,13 +5,13 @@
 
 ## About me 😀
 - :woman: Pronouns: She/Her/Hers
-- I'm an early career Software Engineer, a recent Computer Science graduate from CUNY Queens College. 
+- I'm an early career Software Developer, a recent Computer Science graduate from CUNY Queens College. 
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
    * I like watching anime and comedies in my spare time.
    * I strive every day to live in the moment. And to better myself.
-- :seedling: I'm currently accepted in Inro to Programming class at Code The Dream.
-- :computer: I'm also learning and practicing Data Structure and Algorithms.
+- :seedling: I'm learning and practicing Data Structure and Algorithms.
+
 
 
 ## Find me on: 
