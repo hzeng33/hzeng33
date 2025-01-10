@@ -5,7 +5,7 @@
 
 ## About me 😀
 - :woman: Pronouns: She/Her/Hers
-- I'm an early career Software Developer, a recent Computer Science graduate from CUNY Queens College. 
+- I'm a Software Developer. 
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
    * I like watching anime and comedies in my spare time.
