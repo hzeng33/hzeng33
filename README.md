@@ -5,18 +5,18 @@
 
 ## About me 😀
 - :woman: Pronouns: She/Her/Hers
-- I'm a Software Developer. 
+- I'm a Software Developer passionate about full-stack web development. 
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
-   * I like watching anime and comedies in my spare time.
-   * I strive every day to live in the moment. And to better myself.
-- :seedling: I'm learning and practicing Data Structure and Algorithms.
+   * I like watching anime and comedies in my free time.
+   * Every day, I strive to live in the moment and improve myself.
+- :seedling: I'm currently participating in the practicum at Code The Dream. I'm also looking to collaborate on projects that implement LLM and RAG.
 
 
 
 ## Find me on: 
 <p align="left">
- <a href="https://www.linkedin.com/in/hannahzengsde" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="37" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/hannahzeng33" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="37" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Programming Languages & Tools
