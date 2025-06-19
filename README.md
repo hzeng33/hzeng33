@@ -12,34 +12,75 @@
    * Every day, I strive to live in the moment and improve myself.
 - :seedling: I'm currently looking to collaborate on projects that implement LLM and RAG.
 
-
-
 ## Find me on: 
-<p align="left">
- <a href="https://www.linkedin.com/in/hannah-zeng" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="37" style="vertical-align:top; margin:4px"></a>
-</p>
+<div align="left">
+  <a href="https://mail.google.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+ <a href="https://www.linkedin.com/in/hannah-zeng"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+  <a href="https://discord.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ## Programming Languages & Tools
-<p align="center">
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="33px" height="33px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="33px" height="33px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="33px" height="33px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="33px" height="33px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="33px" height="33px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="33px" height="33px"></a>
-<a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="33px" height="33px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="33px" height="33px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="33px" height="33px"></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="33px" height="33px"></a>
-<a href="https://https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" alt="MongoDB" width="33px" height="33px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="33px" height="33px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="33px" height="33px"></a>
-</p>
-          
- <br></br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hzeng33"/>  <img src="https://github-readme-stats.vercel.app/api?username=hzeng33&show_icons=true&theme=vue-dark"/>       
- 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
+  <img width="5" />
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  /></a>
+  <img width="5" />
+  <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  /> </a>
+  <img width="5" />
+  <a href="https://html.spec.whatwg.org/multipage/" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  /> </a>
+  <img width="5" />
+  <a href="https://css3.com/" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  /> </a>
+  <img width="5" />
+  <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  /> </a>
+  <img width="5" />
+  <a href="https://www.npmjs.com/" title="npm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="37" alt="npm logo"  /> </a>
+  <img width="5" />
+  <a href="https://nodejs.org/en" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="37" alt="nodejs logo"  /></a>
+  <img width="5" />
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="37" alt="express logo"  /> </a>
+  <img width="5" />
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  /></a>
+  <img width="5" />
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="37" alt="mongodb logo"  /></a>
+  <img width="5" />
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo"  /></a>
+  <img width="5" />
+  <a href="https://sequelize.org/" title="Sequelize"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="37" alt="sequelize logo"  /></a>
+  <img width="5" />
+  <a href="https://www.figma.com/" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  /></a>
+  <img width="5" />
+  <a href="https://mui.com/" title="MaterialUI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="37" alt="materialui logo"  /></a>
+  <img width="5" />
+  <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="37" alt="jira logo"  /></a>
+  <img width="5" />
+  <a href="https://www.postman.com/" title="Postman"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="37" alt="postman logo"  /></a>
+  <img width="5" />
+  <a href="https://www.kaggle.com/" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="37" alt="kaggle logo"  /></a>
+  <img width="5" />
+  <a href="https://numpy.org/" title="Numpy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="37" alt="numpy logo"  /></a>
+  <img width="5" />
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.simpleicons.org/pandas/150458" height="37" alt="pandas logo"  /></a>
+  <img width="5" />
+  <a href="https://www.selenium.dev/" title="Selenium"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="37" alt="selenium logo"  /></a>
+  <img width="5" />
+  <a href="https://sqlite.org/" title="Sqlite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="37" alt="sqlite logo"  /></a>
+  <img width="5" />
+  <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="37" alt="php logo"  /></a>
+  <img width="5" />
+  <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  /></a>
+  <img width="5" />
+</div>
 
+<br></br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hzeng33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hzeng33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+      
+ 
 <!--
 **hzeng33/hzeng33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
