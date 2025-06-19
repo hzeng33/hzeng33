@@ -5,7 +5,7 @@
 
 ## About me 😀
 - :woman: Pronouns: She/Her/Hers
-- I'm a Software Developer passionate about full-stack web development. 
+- I'm a software developer and am interested in full-stack web development, health tech, and AI/ML. 
 - ⚡ Fun facts: 
    * I can speak both Cantonese and Mandarin fluently.     
    * I like watching anime and comedies in my free time.
