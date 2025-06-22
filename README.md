@@ -1,6 +1,4 @@
-<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" width="650px">   
-
-## ✨ Hello, I'm Hannah. Welcome to my GitHub! :relaxed: <img src="wave.gif" height="25px" width="25px">
+# ✨ Hello, I'm Hannah. Welcome to my GitHub! :relaxed: <img src="wave.gif" height="25px" width="25px">
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=hzeng33) ![Github](https://img.shields.io/github/followers/hzeng33?label=Follow&style=social)-->
 
 ## About me 
@@ -76,7 +74,7 @@
  
 <!--
 **hzeng33/hzeng33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github.com/hzeng33/hzeng33/blob/main/Name.gif" width="650px">   
 Here are some ideas to get you started:
 - :computer: I'm currently working on ...
 - 🌱 I’m currently learning ...
