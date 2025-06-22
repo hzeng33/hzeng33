@@ -31,7 +31,7 @@
   <img width="5" />
   <a href="https://nodejs.org/en" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="37" alt="nodejs logo"  /></a>
   <img width="5" />
-  <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="37" alt="express logo"  /> </a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express&theme=light" height="37" alt="express logo"  /> </a>
   <img width="5" />
   <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  /></a>
   <img width="5" />
@@ -53,11 +53,11 @@
   <img width="5" />
   <a href="https://numpy.org/" title="Numpy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="37" alt="numpy logo"  /></a>
   <img width="5" />
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.simpleicons.org/pandas/150458" height="37" alt="pandas logo"  /></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/user-attachments/assets/5cbdae18-27b2-47ba-95c5-c4b5555c18fe" height="37" alt="pandas logo"  /></a>
   <img width="5" />
   <a href="https://www.selenium.dev/" title="Selenium"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="37" alt="selenium logo"  /></a>
   <img width="5" />
-  <a href="https://sqlite.org/" title="Sqlite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="37" alt="sqlite logo"  /></a>
+  <a href="https://sqlite.org/" title="Sqlite"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" height="37" alt="sqlite logo"  /></a>
   <img width="5" />
   <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="37" alt="php logo"  /></a>
   <img width="5" />
@@ -86,6 +86,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -- :computer: I'm currently working on ...
 - github stats: <img src="https://github-readme-stats.vercel.app/api?username=hzeng33&show_icons=true&theme=vue-dark"/>
-- badge website: https://dev.to/envoy_/150-badges-for-github-pnk [![](<badge_url>)](<hyperlink>)
 - Tools icon : https://www.svgrepo.com/ 
 -->
