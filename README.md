@@ -8,7 +8,7 @@
    * I can speak both Cantonese and Mandarin fluently.     
    * I like watching anime and comedies in my free time.
    * Every day, I strive to live in the moment and improve myself.
-- :seedling: I'm currently looking to collaborate on projects that implement LLM and RAG.
+- :seedling: I'm currently looking to collaborate on projects that implement LLM, genarative AI, and more.
 
 ## Find me on: <a href="https://www.linkedin.com/in/hannah-zeng"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
  
