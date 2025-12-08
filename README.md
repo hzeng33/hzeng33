@@ -8,10 +8,11 @@ class HannahZeng:
           self.pronouns = "She/Her/Hers"
           self.current_role = "Software Developer"
           self.language_spoken = ["English", "Cantonese", "Taishanese", "Mandarin"]
-          self.hobbies = ["watching anime and movies", "hiking in a state park", "shopping"]
+          self.hobbies = ["watching anime and movies", "hiking in a state park",
+                          "shopping"]
           self.code = ["JavaScript", "Python", "C++", "PHP"]
-          self.technologies = ["React", "HTML5", "CSS3", "Node.js", "Express", "Vite",
-                               "MongoDB", "PostgreSQL", "REST APIs"]
+          self.technologies = ["React", "HTML5", "CSS3", "Node.js", "Express",
+                               "Vite", "MongoDB", "PostgreSQL", "REST APIs"]
           self.learning = ["Flask", "Django", "C#", "NestJS"]
           self.current_mission = "Build things that don't break (too often)"
 
@@ -22,7 +23,8 @@ class HannahZeng:
       def __str__(self):
           return f"""
                   Hi, I'm {self.name}!
-                  → Currently breaking... I mean *building* things as a {self.current_role}
+                  → Currently breaking... I mean *building* things as a
+                    {self.current_role}
                   → Mission: {self.current_mission}
                   Let's build something cool together! ☕✨
             """
