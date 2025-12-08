@@ -18,7 +18,14 @@ class HannahZeng:
       def say_hi(self):
           print("Hey there 👋")
           print("Thanks for stopping by! Grab a virtual coffee ☕ and browse around.")
-          
+
+      def __str__(self):
+          return f"""
+                  Hi, I'm {self.name}!
+                  → Currently breaking... I mean *building* things as a {self.current_role}
+                  → Mission: {self.current_mission}
+                  Let's build something cool together! ☕✨
+            """
 
 if __name__ == "__main__":
     me = HannahZeng()
