@@ -36,11 +36,13 @@ if __name__ == "__main__":
 
 ```
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://fb.com/hannah-zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hannah-zeng" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hannah-zeng" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-username" height="30" width="40" />
+  </a>
 </p>
-<br>
+<br></br>
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
