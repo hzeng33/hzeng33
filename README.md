@@ -9,11 +9,11 @@ class HannahZeng:
           self.current_role = "Software Developer"
           self.language_spoken = ["English", "Cantonese", "Taishanese", "Mandarin"]
           self.hobbies = ["watching anime and movies", "hiking in a state park",
-                          "shopping"]
-          self.code = ["JavaScript", "Python", "C++", "PHP"]
+                          "shopping", "reading"]
+          self.code = ["JavaScript", "Python", "Java", "C++", "PHP"]
           self.technologies = ["React", "HTML5", "CSS3", "Node.js", "Express",
                                "Vite", "MongoDB", "PostgreSQL", "REST APIs"]
-          self.learning = ["Flask", "Django", "C#", "NestJS"]
+          self.learning = ["Flask", "Django", "C#", "NestJS", "ML"]
           self.current_mission = "Build things that don't break (too often)"
 
       def say_hi(self):
